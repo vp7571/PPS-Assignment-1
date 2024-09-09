@@ -1,4 +1,4 @@
-OUTPUT:#include <stdio.h>
+#include <stdio.h>
 
 int globalVar = 10;  // Global variable
 static int staticGlobalVar = 20;  // Static global variable
